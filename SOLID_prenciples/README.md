@@ -1,1 +1,1 @@
-H2 SOLID prensiplerinden 'single-responsibility' olarak dünlenmiş kod.
+SOLID prensiplerinden 'single-responsibility' olarak dünlenmiş kod.
